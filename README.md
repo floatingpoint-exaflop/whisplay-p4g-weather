@@ -1,10 +1,10 @@
 # Whisplay Persona 4 Weather UI
 
+I played Persona 4 Golden this past year and really enjoyed it. The game has a remake, Persona 4 Revival, dropping later this year (2026) and in honor of the hype I put together a Whisplay app that gives you a mini-HUD in the style of Persona 4 Golden's weather and time of day corner splash. Some assets are from Golden, some are not; I probably will try to fix this.
+
 The PiSugar Whisplay HAT is incredibly versatile, but I only see people doing like two or three things with it, despite it having an excellent UI, a surprisingly loud onboard speaker, and equally surprising dual MEMS mic input. 
 
 This isn't a review; I've just noticed this thing is so new that the doco for it can be hard to find still! Half the reviews say it's hard to set up. I don't disagree, so I spent some time reverse engineering the official stuff from [the official whisplay repo](https://github.com/PiSugar/whisplay) and some of [hemna's much more impressive whisplay weather app](https://github.com/hemna/pisugar-wx).
-
-Anyway, I played Persona 4 Golden this past year and really enjoyed it. The game has a remake, Persona 4 Revival, dropping later this year (2026) and in honor of the hype I put together a Whisplay app that gives you a mini-HUD in the style of Persona 4 Golden's weather and time of day corner splash. Some assets are from Golden, some are not; I probably will try to fix this.
 
 The project was also a good chance to learn tiling and aseprite; I have included my project files in case you have it too, but you don't need it to run the app as it exists in version 1. I developed this using a Pi500+, and this hat mounted to the GPIO on the Adafruit cyberdeck bonnet honestly looks incredible.
 
