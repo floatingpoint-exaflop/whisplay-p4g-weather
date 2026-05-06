@@ -12,7 +12,7 @@ The project was also a good chance to learn tiling and aseprite; I have included
 - Cute Yasogami High Hallway/Weather News loading screen with startup and UI sounds from the game, configured to play from the Whisplay's onboard speaker.
 - Live OpenWeather API integration
   - Displays some information from the current local weather (courtesy of OpenWeather API.
-  - You'll need to register for a free key at [their site](Openweather.org) ).
+  - You'll need to register for a free key at [their site](https:www.openweather.org) ).
   - Note that because the game doesn't display the temperature, I don't either - it's not meant to be practical lol!
 - Time-of-day transitions
   - App keeps the time, and displays it in general time-of-day descriptions (morning, lunchtime, after school, etc.), a classic element of Persona games.
